@@ -22,4 +22,8 @@ class Workout {
     func getTotalTime() -> Int {
         return workouts.map({$0.seconds}).reduce(0, +)
     }
+    
+    func getTotalItems() -> Int {
+        return 2
+    }
 }

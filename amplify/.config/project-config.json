@@ -1,0 +1,8 @@
+{
+    "projectName": "trainerTeam",
+    "version": "3.0",
+    "frontend": "ios",
+    "providers": [
+        "awscloudformation"
+    ]
+}
